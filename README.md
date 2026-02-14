@@ -5,7 +5,8 @@ Hospital &amp; Pharmacy Performance  Power BI Analysis
 The data set consisted three relational tables, Patients (Patient_ID	Patient_Name	Gender	Age	County), Visits (Visit_ID	Patient_ID	Visit_Date	Department	Diagnosis
 Length_of_Stay_Days) and Pharmacy Transactions (Transaction_ID	Visit_ID
 Drug_Name	Drug_Category	Quantity	Unit_Price	Total_Cost).  The dataset was loaded into Power BI for data cleaning, data modelling, and data analysis. 
-#Data Cleaning
+
+**Data Cleaning**
 Visit ID, Patient ID. Transaction ID changed to Text data type. 
 The data set had no duplicates, missing values, or errors. 
 Visit date changed to short format
