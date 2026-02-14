@@ -45,7 +45,7 @@ No. Some diagnoses, such as Malaria, with a lower average length of stay,1.05, r
 
 ## Dashboard Preview
 
-![Hospital Data Dashboard](Hospital Data Dashboard.jpg)
+
 
 
  
