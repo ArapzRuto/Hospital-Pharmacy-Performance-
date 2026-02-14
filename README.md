@@ -7,11 +7,15 @@ Length_of_Stay_Days) and Pharmacy Transactions (Transaction_ID	Visit_ID
 Drug_Name	Drug_Category	Quantity	Unit_Price	Total_Cost).  The dataset was loaded into Power BI for data cleaning, data modelling, and data analysis. 
 
 **Data Cleaning**
+
 Visit ID, Patient ID. Transaction ID changed to Text data type. 
 The data set had no duplicates, missing values, or errors. 
 Visit date changed to short format
-#Key Questions Answered
-1.	Which diseases are most common across counties? 
+
+
+**Key Questions Answered**
+
+**1.	Which diseases are most common across counties? **
 Kiambu- Diabetes and Typhoid, each with 13 cases reported.
 Kisumu-Hypertension with 16 cases reported.
 Mombasa- Flu with 11 cases reported.
