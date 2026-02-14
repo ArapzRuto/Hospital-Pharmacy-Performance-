@@ -43,7 +43,10 @@ No. Some diagnoses, such as Malaria, with a lower average length of stay,1.05, r
 **Executive Dashboard and Insights**
 ## Dashboard Preview
 
-![Hospital Dashboard](Hospital-Dashboard.jpg)
+## Dashboard Preview
+
+![Hospital Data Dashboard](Hospital Data Dashboard.jpg)
+
 
  
 The dashboard created revealed critical insights regarding hospital performance from the perspectives of patients, physicians, and pharmacy transactions. 
