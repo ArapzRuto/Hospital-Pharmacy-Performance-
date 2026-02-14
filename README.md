@@ -2,6 +2,7 @@
 Hospital &amp; Pharmacy Performance  Power BI Analysis
 
 **Overview**
+
 The data set consisted three relational tables, Patients (Patient_ID	Patient_Name	Gender	Age	County), Visits (Visit_ID	Patient_ID	Visit_Date	Department	Diagnosis
 Length_of_Stay_Days) and Pharmacy Transactions (Transaction_ID	Visit_ID
 Drug_Name	Drug_Category	Quantity	Unit_Price	Total_Cost).  The dataset was loaded into Power BI for data cleaning, data modelling, and data analysis. 
@@ -16,15 +17,18 @@ Visit date changed to short format
 **Key Questions Answered**
 
 **1.	Which diseases are most common across counties?**
+
 Kiambu- Diabetes and Typhoid, each with 13 cases reported.
 Kisumu-Hypertension with 16 cases reported.
 Mombasa- Flu with 11 cases reported.
 Nairobi-Pneumonia with 9 cases reported.
 Nakuru- Flu with 9 cases reported.
 Uasin Gishu- Flu with 15 cases reported.
+
 **2.	Does a higher number of patient visits always lead to higher pharmacy revenue?**
 
 No, a higher number of patient visits does NOT always lead to higher pharmacy revenue. Why? Because revenue depends on: Type of medication prescribed, Quantity dispensed, Unit price, and whether visits result in prescriptions at all 
+
 **3.	Which departments generate the highest pharmacy costs?**
 
 Inpatient department with a total pharmacy cost of 94759
