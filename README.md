@@ -46,6 +46,7 @@ No. Some diagnoses, such as Malaria, with a lower average length of stay,1.05, r
 ## Dashboard Preview
 
 ![Hospital Dashboard](https://github.com/ArapzRuto/Hospital-Pharmacy-Performance-/commit/c5e6603e1fcd4da70b2e7fb77ae2b7f9016e03e5#diff-64e662f6667f5327bd33e3ee341cd3d91122262677d3efceb52f8341f9e3d704)
+![Hospital and Pharmacy Dashboard](https://github.com/ArapzRuto/Hospital-Pharmacy-Performance-/commit/c5e6603e1fcd4da70b2e7fb77ae2b7f9016e03e5#diff-64e662f6667f5327bd33e3ee341cd3d91122262677d3efceb52f8341f9e3d704)
 
 
 
