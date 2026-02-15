@@ -17,6 +17,7 @@ Visit date changed to short format
 **Key Questions Answered**
 
 **1.	Which diseases are most common across counties?**
+![Quiz 1](https://github.com/ArapzRuto/Hospital-Pharmacy-Performance-/blob/main/screenshots/Quiz%201.jpg)
 
 Kiambu- Diabetes and Typhoid, each with 13 cases reported.
 Kisumu-Hypertension with 16 cases reported.
