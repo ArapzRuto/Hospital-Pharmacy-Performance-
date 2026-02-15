@@ -34,6 +34,8 @@ No, a higher number of patient visits does NOT always lead to higher pharmacy re
 
 **3.	Which departments generate the highest pharmacy costs?**
 
+![Quiz 3](https://github.com/ArapzRuto/Hospital-Pharmacy-Performance-/blob/main/screenshots/Quiz%203.jpg)
+
 Inpatient department with a total pharmacy cost of 94759
 **4.	Are there age groups that consume more medication than others?**
 
