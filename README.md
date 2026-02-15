@@ -28,6 +28,8 @@ Uasin Gishu- Flu with 15 cases reported.
 
 **2.	Does a higher number of patient visits always lead to higher pharmacy revenue?**
 
+![Quiz 2](https://github.com/ArapzRuto/Hospital-Pharmacy-Performance-/blob/main/screenshots/Quiz%202.jpg)
+
 No, a higher number of patient visits does NOT always lead to higher pharmacy revenue. Why? Because revenue depends on: Type of medication prescribed, Quantity dispensed, Unit price, and whether visits result in prescriptions at all 
 
 **3.	Which departments generate the highest pharmacy costs?**
