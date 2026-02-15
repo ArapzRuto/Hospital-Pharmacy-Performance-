@@ -46,13 +46,11 @@ Yes. It was evident that patients in the age group 81-90 are the highest consume
 
 **5.	Are some diagnoses associated with more extended hospital stays but lower pharmacy spending?**
 
+![Quiz 5](https://github.com/ArapzRuto/Hospital-Pharmacy-Performance-/blob/main/screenshots/Quiz%205.jpg)
+
 No. Some diagnoses, such as Malaria, with a lower average length of stay,1.05, reported high average pharmacy spending, 879.63, compared to Hypertension, which had a higher average length of stay, 1.72, but  a pharmacy spending of 734.37
 
 **Executive Dashboard and Insights**
-## Dashboard Preview
-
-## Dashboard Preview
-
 
 ![Hospital and Pharmacy Dashboard](https://github.com/ArapzRuto/Hospital-Pharmacy-Performance-/commit/c5e6603e1fcd4da70b2e7fb77ae2b7f9016e03e5#diff-64e662f6667f5327bd33e3ee341cd3d91122262677d3efceb52f8341f9e3d704)
 
