@@ -37,6 +37,7 @@ No, a higher number of patient visits does NOT always lead to higher pharmacy re
 ![Quiz 3](https://github.com/ArapzRuto/Hospital-Pharmacy-Performance-/blob/main/screenshots/Quiz%203.jpg)
 
 Inpatient department with a total pharmacy cost of 94759
+
 **4.	Are there age groups that consume more medication than others?**
 
 Yes. It was evident that patients in the age group 81-90 are the highest consumers of medication (39772), while those in the age group 41-50 are the lowest consumers of medication (18966). 
